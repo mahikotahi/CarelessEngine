@@ -15,3 +15,5 @@ a FNF engine that doesn't care
   * Removed some Excess Health Bar stuff
   * Modified Widescreen center for Healthbar, Icons, and Score+Miss Counter.
   * Moved Millisecond Popup to be out of the way
+  * Removed Donate Button
+  * Removed 2P thing
