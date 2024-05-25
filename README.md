@@ -17,3 +17,7 @@ a FNF engine that doesn't care
   * Moved Millisecond Popup to be out of the way
   * Removed Donate Button
   * Removed 2P thing
+  V1.01 [Indev!!] - May 25
+  * Removed Useless 2P Scripts from Opponent Sprite
+  * Ported Overhead to engine (whitty, song)
+  * Modified how the idle image works in Opponent Sprite
