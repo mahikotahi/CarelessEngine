@@ -24,7 +24,7 @@ a FNF engine that doesn't care
   * Modified how the idle image works in Opponent Sprite
   * Somewhat Redid how stages load and stuff
   * Removed useless stages
-  * Fixed Input, hopefully? (thanks for the feedback [raily](https://www.youtube.com/channel/UCLfNe4ubapLEEEr6wKoExxQ))
+  * Fixed Input, hopefully? (thanks for the feedback [riley](https://www.youtube.com/channel/UCLfNe4ubapLEEEr6wKoExxQ))
   * Removed extra rankings
   * Only one ranking and combo can be visible on screen now
   * HUD now always goes to front layer
