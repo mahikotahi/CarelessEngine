@@ -36,3 +36,6 @@ a FNF engine that doesn't care
   * Songs no longer play in freeplay when selected
   * Removed Mobile Controls
   * Modified some millisecond counter colors
+  
+  V1.02 - May 25
+  * Fixed Whitty Alley Background
